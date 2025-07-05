@@ -1,0 +1,80 @@
+    1  which pyton
+    2  which pyton
+    3  brew install --cask dbeaver-community
+    4  brew install --cask dbeaver-community
+    5  brew install --cask dbeaver-community
+    6  brew install --cask dbeaver-community
+    7  git--version
+    8  git --version
+    9  git --version
+   10  git-version
+   11  git--version
+   12  git--version
+   13  git
+   14  git--version
+   15  git--version
+   16  git --version
+   17  git-version
+   18  git --version
+   19  which git
+   20  git --version
+   21  git --version
+   22  which git
+   23  ports
+   24  port --version
+   25  port -version
+   26  sudo port install git
+   27  xcode-select --install
+   28  xcodebuild -license
+   29  sudo port install git
+   30  ls
+   31  cd Desktop
+   32  ls
+   33  cd myFolder
+   34  git config --global user.name "Natalia Shvyryd"
+   35  git config --global user.email "natasha.shvyryd777@gmail.com"
+   36  git config user.name "Natalia Shvyryd"
+   37  git config --global user.name "Natalia Shvyryd" 
+   38  git config --global user.email "natasha.shvyryd777@gmail.com"
+   39  clear
+   40  cd Git
+   41  git config --global user.name "Natalia Shvyryd"
+   42  git config --global user.email "natasha.shvyryd777@gmail.com"
+   43  git clear
+   44  clean
+   45  git config --global user.name "Natalia Shvyryd" 
+   46  git config --global user.email "natasha.shvyryd777@gmail.com" 
+   47  git clone https://github.com/NataliaShvyryd/HW_10.git 
+   48  cd HW_10
+   49  touch text_ignore.txt 
+   50  git status 
+   51  git add text_ignore.txt 
+   52  git status 
+   53  git commit -m "text_ignore file created"
+   54  touch main_test.txt 
+   55  git add main_test.txt 
+   56  git commit -m "main_test file created"
+   57  git checkout -b branch_develop 
+   58  touch develop_test.txt 
+   59  git add develop_test.txt 
+   60  git commit -m "develop_test file created"
+   61  nano develop_test.txt 
+   62  git status
+   63  git add develop_test.txt 
+   64  git commit -m "develop_test file modified"
+   65  git checkout branch_main
+   66  git branch
+   67  git checkout main
+   68  git merge branch_develop 
+   69  git status
+   70  git log
+   71  git log
+   72  history 0 > command_list.csv
+   73  git add history 0 > command_list.csv 
+   74  git add command_list.csv 
+   75  git commit -m "command_list.csv created"
+   76  git push
+   77  git push
+   78  git pull
+   79  git config pull.rebase false
+   80  git pull
